@@ -5,9 +5,7 @@ Welcome to **Verge Security Labs'** public assessment repository. These boutique
 ---
 
 > ### ℹ️ Assessment Target & Authorization Notice
-> * **Target System:** **OWASP Juice Shop** (Industry-Standard Security Benchmark Target).
-> * **Assessment Purpose:** Simulated grey-box penetration testing conducted to demonstrate Verge Security Labs' assessment methodology, vulnerability analysis depth, and standardized reporting quality.
-> * **Authorization & Ethics:** Conducted on an open-source security benchmark for portfolio demonstration. No live client infrastructure, proprietary business systems, or non-disclosure agreements (NDAs) were breached.
+Simulated grey-box penetration test conducted on the **OWASP Juice Shop** benchmark to demonstrate Verge Security Labs' methodology and deliverable quality. Performed strictly on a public open-source benchmark for portfolio demonstration; no live client infrastructure or NDAs were breached.
 
 ---
 
