@@ -1,6 +1,6 @@
 # Verge Security Labs — Penetration Testing Portfolio
 
-Welcome to **Verge Security Labs'** public assessment repository. This collection features boutique-grade penetration testing deliverables demonstrating high-assurance grey-box auditing across modern web applications, REST APIs, and identity subsystems.
+Welcome to **Verge Security Labs'** public assessment repository. These boutique-grade penetration testing deliverables demonstrate high-assurance grey-box auditing across modern web applications, REST APIs, and identity subsystems.
 
 ---
 
