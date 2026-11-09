@@ -11,7 +11,7 @@ Welcome to **Verge Security Labs'** public assessment repository. These boutique
 
 ## 📂 Featured Security Assessment Reports
 
-### 🛡️ [Report #1: API Security, Access Control & Data Protection Architecture](./Report_1.pdf)
+### 🛡️ [Report #1: API Security, Access Control & Data Protection Architecture](./Report-01-API-Data-Protection.pdf)
 * **Scope:** REST API endpoints, product search forms, static asset repositories, file uploads, and object-level authorization.
 * **Target Environment:** OWASP Juice Shop Benchmark
 * **Vulnerabilities Identified:** **7 Findings** (1 Critical, 5 Medium, 1 Low)
@@ -26,7 +26,7 @@ Welcome to **Verge Security Labs'** public assessment repository. These boutique
 
 ---
 
-### 🔑 [Report #2: Authentication, Session & Identity Subsystems](./Report_2.pdf)
+### 🔑 [Report #2: Authentication, Session & Identity Subsystems](./Report-02-Auth-Identity-Subsystems.pdf)
 * **Scope:** Primary authentication handlers, account recovery workflows, session management, and re-authentication mechanisms.
 * **Target Environment:** OWASP Juice Shop Benchmark
 * **Vulnerabilities Identified:** **4 Findings** (3 Critical, 1 Medium)
