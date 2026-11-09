@@ -5,7 +5,7 @@ Welcome to **Verge Security Labs'** public assessment repository. These boutique
 ---
 
 > ### ℹ️ Assessment Target & Authorization Notice
-Simulated grey-box penetration test conducted on the **OWASP Juice Shop** benchmark to demonstrate Verge Security Labs' methodology and deliverable quality. Performed strictly on a public open-source benchmark for portfolio demonstration; no live client infrastructure or NDAs were breached.
+>Simulated grey-box penetration test conducted on the **OWASP Juice Shop** benchmark to demonstrate Verge Security Labs' methodology and deliverable quality. Performed strictly on a public open-source benchmark for portfolio demonstration; no live client infrastructure or NDAs were breached.
 
 ---
 
