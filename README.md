@@ -1,5 +1,3 @@
-# portfolio
-Boutique web &amp; API pentesting portfolio conducted on the OWASP Juice Shop security benchmark, featuring OWASP Top 10:2025 findings &amp; PASS audits. 
 # Verge Security Labs — Penetration Testing Portfolio
 
 Welcome to the public security assessment repository for **Verge Security Labs**. This repository contains boutique-grade penetration testing deliverables demonstrating high-assurance grey-box auditing across modern web applications, REST API architectures, and identity subsystems.
@@ -64,4 +62,5 @@ Every finding across both reports strictly follows Verge Security Labs' 4-part b
 ### 📩 Contact & Engagement Inquiries
 For assessment inquiries or security research collaboration:
 * **Firm:** Verge Security Labs
+* **Email:** alex.vergesec@gmail.com
 * **Services:** Web Application Penetration Testing | REST API Auditing | Code Review & Remediation Guidance
